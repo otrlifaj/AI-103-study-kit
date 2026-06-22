@@ -1,0 +1,15 @@
+[submodule "labs/mslearn-ai-studio"]
+	path = labs/mslearn-ai-studio
+	url = https://github.com/MicrosoftLearning/mslearn-ai-studio.git
+[submodule "labs/mslearn-ai-agents"]
+	path = labs/mslearn-ai-agents
+	url = https://github.com/MicrosoftLearning/mslearn-ai-agents.git
+[submodule "labs/mslearn-ai-language"]
+	path = labs/mslearn-ai-language
+	url = https://github.com/MicrosoftLearning/mslearn-ai-language.git
+[submodule "labs/mslearn-ai-vision"]
+	path = labs/mslearn-ai-vision
+	url = https://github.com/MicrosoftLearning/mslearn-ai-vision.git
+[submodule "labs/mslearn-ai-information-extraction"]
+	path = labs/mslearn-ai-information-extraction
+	url = https://github.com/MicrosoftLearning/mslearn-ai-information-extraction.git

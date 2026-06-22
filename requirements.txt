@@ -1,0 +1,25 @@
+# AI-103 study kit — base Azure AI SDK (Python 3.13)
+# Společné balíčky napříč laby; každý lab v labs/ má navíc vlastní requirements.txt.
+# Auth je keyless (DefaultAzureCredential) — žádné klíče, žádné secrets.
+
+azure-identity
+python-dotenv
+
+# Generative AI / chat (Azure OpenAI přes OpenAI SDK)
+openai
+
+# Foundry projekt + agenti (Path 1 + Path 2)
+azure-ai-projects
+azure-ai-agents
+
+# RAG / vektorové hledání (Path 1 + information extraction)
+azure-search-documents
+
+# Information extraction (Path 4)
+azure-ai-documentintelligence
+
+# Speech (Path 3 — STT/TTS)
+azure-cognitiveservices-speech
+
+# Computer vision (Path 4)
+azure-ai-vision-imageanalysis

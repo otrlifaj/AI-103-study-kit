@@ -1,0 +1,11 @@
+# Python virtual environments
+.venv/
+**/.venv/
+__pycache__/
+*.pyc
+
+# Local env files
+**/.env
+
+# Personal Azure config (vytvoří /setup z azure-config.example.md) — obsahuje tvé IDs
+azure-config.md
